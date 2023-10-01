@@ -1,0 +1,12 @@
+{
+    "TaskNotFound": {
+        "code": 404,
+        "data": "Task Not Found",
+        "custom_code": "Task_NOT_FOUND"
+    },
+    "InsufficentArguments": {
+        "code": 400,
+        "data": "Insufficent Arguments",
+        "custom_code": "INSUFFICENT_ARGUMENTS"
+    }
+}
